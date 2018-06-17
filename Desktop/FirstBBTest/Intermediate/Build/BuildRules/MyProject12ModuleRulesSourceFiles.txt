@@ -1,0 +1,3 @@
+/Users/davidlehman/Documents/Unreal Projects/MyProject12/Source/MyProject12/MyProject12.Build.cs
+/Users/davidlehman/Documents/Unreal Projects/MyProject12/Source/MyProject12.Target.cs
+/Users/davidlehman/Documents/Unreal Projects/MyProject12/Source/MyProject12Editor.Target.cs
